@@ -20,7 +20,7 @@
 				"loginUrl": "https://login.salesforce.com"
 			},
 			"marketingCloud": {
-				"jwtSecret": "<YOUR UNCONVERTED SALT KEY HERE>"
+				"jwtSecret": "tf21xhbtinoyt34ocqd33lmvyjl5tioffwizctadyeliiot3nuci4fkjitjpbzba0zema2dgcj5lweoqa1lhbn1ohkqs0k0baf1zqw0j2i01lo31ngc3aorgojwsfifncfaaus3qidnaoonk5hwgoebcqlfcq0dpfpa5f0xycoai0redaatgg3kro40w32lsiupcpkfsszzqs1xz5cfrl5h0jorfsisi5sarnbjmkd4uoghjsvqqm2bsn1ctjeo"
 			}
 		}
 	}
