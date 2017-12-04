@@ -13,27 +13,27 @@
 	},
 	"workflowApiVersion": "1.1",
 	"configurationArguments": {
-		"applicationExtensionKey": "<YOUR APPLICATION EXTENSION KEY HERE>",
+		"applicationExtensionKey": "Mn2skvWXxOHflIr3FMW",
 		"save": {
-			"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/activity/save",
+			"url": "https://sfmc-servicecloud-customsplit.herokuapp.com/activity/save",
 			"verb": "POST",
 			"body": "",
 			"useJwt": true,
-			"customerKey": "<EXTERNAL KEY OF THE SALT KEY FOR THE JWT>"
+			"customerKey": "tf21xhbtinoyt34ocqd33lmvyjl5tioffwizctadyeliiot3nuci4fkjitjpbzba0zema2dgcj5lweoqa1lhbn1ohkqs0k0baf1zqw0j2i01lo31ngc3aorgojwsfifncfaaus3qidnaoonk5hwgoebcqlfcq0dpfpa5f0xycoai0redaatgg3kro40w32lsiupcpkfsszzqs1xz5cfrl5h0jorfsisi5sarnbjmkd4uoghjsvqqm2bsn1ctjeo"
 		},
 		"publish": {
-			"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/activity/publish",
+			"url": "https://sfmc-servicecloud-customsplit.herokuapp.com/activity/publish",
 			"verb": "POST",
 			"body": "",
 			"useJwt": true,
-			"customerKey": "<EXTERNAL KEY OF THE SALT KEY FOR THE JWT>"
+			"customerKey": "tf21xhbtinoyt34ocqd33lmvyjl5tioffwizctadyeliiot3nuci4fkjitjpbzba0zema2dgcj5lweoqa1lhbn1ohkqs0k0baf1zqw0j2i01lo31ngc3aorgojwsfifncfaaus3qidnaoonk5hwgoebcqlfcq0dpfpa5f0xycoai0redaatgg3kro40w32lsiupcpkfsszzqs1xz5cfrl5h0jorfsisi5sarnbjmkd4uoghjsvqqm2bsn1ctjeo"
 		},
 		"validate": {
-			"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/activity/validate",
+			"url": "https://sfmc-servicecloud-customsplit.herokuapp.com/activity/validate",
 			"verb": "POST",
 			"body": "",
 			"useJwt": true,
-			"customerKey": "<EXTERNAL KEY OF THE SALT KEY FOR THE JWT>"
+			"customerKey": "tf21xhbtinoyt34ocqd33lmvyjl5tioffwizctadyeliiot3nuci4fkjitjpbzba0zema2dgcj5lweoqa1lhbn1ohkqs0k0baf1zqw0j2i01lo31ngc3aorgojwsfifncfaaus3qidnaoonk5hwgoebcqlfcq0dpfpa5f0xycoai0redaatgg3kro40w32lsiupcpkfsszzqs1xz5cfrl5h0jorfsisi5sarnbjmkd4uoghjsvqqm2bsn1ctjeo"
 		}
 	},
 	"wizardSteps": [
@@ -69,18 +69,18 @@
 		"execute": {
 			"inArguments": [],
 			"outArguments": [],
-			"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/activity/execute",
+			"url": "https://sfmc-servicecloud-customsplit.herokuapp.com/activity/execute",
 			"verb": "POST",
 			"body": "",
 			"header": "",
 			"format": "json",
 			"useJwt": true,
-			"customerKey": "<EXTERNAL KEY OF THE SALT KEY FOR THE JWT>",
+			"customerKey": "tf21xhbtinoyt34ocqd33lmvyjl5tioffwizctadyeliiot3nuci4fkjitjpbzba0zema2dgcj5lweoqa1lhbn1ohkqs0k0baf1zqw0j2i01lo31ngc3aorgojwsfifncfaaus3qidnaoonk5hwgoebcqlfcq0dpfpa5f0xycoai0redaatgg3kro40w32lsiupcpkfsszzqs1xz5cfrl5h0jorfsisi5sarnbjmkd4uoghjsvqqm2bsn1ctjeo",
 			"timeout": 90000
 		}
 	},
 	"edit": {
-		"url": "https://<URL OF THE SERVER RUNNING THE BACKEND>/index.html",
+		"url": "https://sfmc-servicecloud-customsplit.herokuapp.com/index.html",
 		"height": 200,
 		"width": 500
 	}
